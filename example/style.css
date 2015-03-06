@@ -1,0 +1,16 @@
+.class-name {
+	height: 100px;
+	padding: 10px 0px;
+}
+div {
+	background: #FFF;
+	margin-left: 10px;
+}
+#myelement {
+	flex-direction: column;
+	box-shadow: inset 1px 1px 4px 0px rgba(255, 0, 0, 0.5);
+	border-width: 3px;
+}
+div {
+	color: red;
+}

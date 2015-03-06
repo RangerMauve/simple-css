@@ -1,0 +1,32 @@
+{
+  "name": "simple-css",
+  "version": "1.0.0",
+  "description": "Parse out simple css rules for classes, id's, and tag names ",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/RangerMauve/simple-css.git"
+  },
+  "keywords": [
+    "simple",
+    "css",
+    "parse",
+    "cssom",
+    "dom",
+    "style"
+  ],
+  "author": "rangermauve",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RangerMauve/simple-css/issues"
+  },
+  "homepage": "https://github.com/RangerMauve/simple-css",
+  "dependencies": {
+    "par": "^0.3.0",
+    "to-camel-case": "^0.2.1",
+    "xtend": "^4.0.0"
+  }
+}
