@@ -41,7 +41,7 @@ var simpleCSS = require("simple-css");
 
 var style_text = fs.readFileSync("style.css", "utf8");
 
-var style_map = Parser.parse(style_text);
+var style_map = simpleCSS.parse(style_text);
 console.log(style_map);
 ```
 
